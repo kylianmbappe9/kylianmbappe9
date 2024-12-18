@@ -1,6 +1,4 @@
-# 💫 Hi I am Sarker Saad Ahmed:
-<br>- 🔭 I am a Physics and Applied Mathematics 2nd / 3rd year at Memorial University of Newfoundland<br>- 🌱 I am currently embarking into Quantum Mechanics, diving deeper into Quantum Computing and Quantum Machine Learning with my keen research on making use of Quantum Algorithms, merge those algorithms into our Quantum Error Correction Code, mitigating noise that usually occur in the fault tolerant devices<br>- 👯 I currently volunteer as a mentor for Quantum Computing, Quantum Machine Learning and Quantum Mechanics and have a keen interest on introducing my own society embarking into mentoring these courses for free open to everyone<br>- 🤔 At this point in time, I am curretly working on [optimizing delivery routes to mitigate cost and increase time efficiency using quantum algorithms] fully focusing on making use of quantum algorithms to help mitigate cost to increase efficiency when focusing on delivery routes, more specifically the vehicle salesman problem, which is considered an NP hard problem <br>- 💬 I also have my own youtube channel where I usually stream myself either teaching or just study with me live [https://www.youtube.com/@KylianMbappe07303]<br>- 📫 Want to Connect: email -> sarkera@mun.ca<br>- 😄 Pronouns: He / Him<br>- ![Sarker's GitHub stats](https://github-readme-stats.vercel.app/api?username=kylianmbappe9&theme=synthwave&show_icons=true)
-
+sdf
 
 ## 🌐 Socials:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@KylianMbappe07303) 
